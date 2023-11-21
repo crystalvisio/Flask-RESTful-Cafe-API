@@ -27,12 +27,9 @@ This repository contains a practice code for a RESTful API using Flask. The API 
     ```
     python main.py
     ```
-
+    
 ## Note
 This is a practice project and is not intended for production use. The API key is stored in an environment variable for security purposes. Please replace it with your own secret key.
-
-## License
-This project is licensed under the terms of the MIT license. For more information, please refer to the LICENSE file. 
 
 ## Contributing
 Contributing is welcome.
